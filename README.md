@@ -1,4 +1,4 @@
-### Hey, I'm Yeomun
+Hey, I'm Yeomun
 
 [![X](https://img.shields.io/badge/-%40yemnhsan-000000?logo=x&logoColor=white)](https://x.com/yemnhsan)  [![Instagram](https://img.shields.io/badge/-%40fihabgotnochill-000000?logo=instagram&logoColor=white)](https://instagram.com/fihabgotnochill)
 
@@ -16,4 +16,4 @@ Outside that, I just like feeling the earth before and after work, touching gras
 **Stack**
 
 Languages: Rust, Python, JavaScript, TypeScript  
-Tools: Git, Docker, Linux (iontknhtml)
+Tools: Git, Docker, Linux (idontknhtml)
